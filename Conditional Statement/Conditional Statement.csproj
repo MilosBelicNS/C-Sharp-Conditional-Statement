@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Conditional_Statement.Practice._01</StartupObject>
+    <StartupObject>Conditional_Statement.Practice.Class1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,11 @@
     <Compile Include="Practice\03.cs" />
     <Compile Include="Practice\04.cs" />
     <Compile Include="Practice\05.cs" />
+    <Compile Include="Practice\06.cs" />
+    <Compile Include="Practice\07.cs" />
+    <Compile Include="Practice\08.cs" />
+    <Compile Include="Practice\09.cs" />
+    <Compile Include="Practice\10.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
